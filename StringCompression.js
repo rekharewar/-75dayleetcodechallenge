@@ -18,6 +18,6 @@ var compress = function(chars) {
             }
         }
     }
-    return write;
+    return chars;
 };
 console.log(compress(["a","a","b","b","c","c","c"]))
