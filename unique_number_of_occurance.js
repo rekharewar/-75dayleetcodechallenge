@@ -11,5 +11,8 @@ var uniqueOccurrences = function(arr) {
 };
 
 
+
 console.log(uniqueOccurrences([1, 2, 2, 1, 1, 3])); 
+
+
 console.log(uniqueOccurrences([1, 2])); 
